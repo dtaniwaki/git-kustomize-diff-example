@@ -4,5 +4,5 @@ metadata:
   name: foo
 spec:
   containers:
-  - name: foo-modified
+  - name: foo-in-branch
     image: nginx:latest
